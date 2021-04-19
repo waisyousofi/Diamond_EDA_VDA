@@ -1,4 +1,4 @@
-# Project overview
+# [Project overview](https://github.com/waisyousofi/Diamond_EDA_VDA)
 
 Diamond pricing involves a complex mechanism influenced by multiple factors such as carat, cut, color and specially price . </br>
 This project will analyze the correlation between these factors and depicts with visualizations,
