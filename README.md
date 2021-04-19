@@ -44,7 +44,8 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 - <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(36).png">
 - <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(40).png?raw=true">
 - <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(41).png?raw=true">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(38).png">
 - <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(42).png">
 - <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(43).png">
 - <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(44).png">
-- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(38).png">
+
