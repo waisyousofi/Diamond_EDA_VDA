@@ -34,7 +34,7 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 
 <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185346.png">
 
-# since the price is a dependent variable, comparson between price and all other attributes which affect on it is visualized as:
+# The "## price" is a dependent variable, comparson between price and all other attributes which affect it is visualized as:
 
 - The scatter plot shows a strong positive correlation between carat and price. Low carat diamond denoted on x axis is mostly observed. It is clear that lower carat diamonds have lower price. As the carat size increases, we see diamond price increasing. Z dimension shows diamond color. G is the most popular color, followed by E, F, H, D, I and J. There are some outliers for high carat and high price explained by the fact that some diamonds may be cut for weight retention rather than beauty. When more of rough diamonds is cut we can assume that the carat loss is compensated by higher price.<br/>
 - ![](https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(29).png)
