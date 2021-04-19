@@ -29,3 +29,6 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 - Packages or libraries: pandas, seaborn, numpy, matplotlib, sklearn, warnings
 - data source: </br>https://www.kaggle.com/shivam2503/diamonds, </br>https://medium.com/swlh/exploratory-data-analysis-21bbf3887e28
 
+# Findings from VDA
+- since the price is a dependent variable, comparson between price and all other attribute which affect on it is visualized as:
+- 
