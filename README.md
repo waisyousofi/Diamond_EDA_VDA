@@ -32,7 +32,7 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 # Findings from VDA
 - Correlation table of all the columns
 - ![](/images/Figure%202021-04-19%20185346.png)
-- since the price is a dependent variable, comparson between price and all other attribute which affect on it is visualized as:
+- since the price is a dependent variable, comparson between price and all other attributes which affect on it is visualized as:
 - ![](/images/Figure%202021-04-19%20185547%20(41).png)
 - ![](/images/Figure%202021-04-19%20185547%20(40).png)
 - ![](/images/Figure%202021-04-19%20185547%20(29).png)
