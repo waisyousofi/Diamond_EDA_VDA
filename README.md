@@ -28,6 +28,7 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 - Packages or libraries: pandas, seaborn, numpy, matplotlib, sklearn, warnings
 - data source: https://www.kaggle.com/shivam2503/diamonds, https://medium.com/swlh/exploratory-data-analysis-21bbf3887e28
 <hr>
+
 # Findings from VDA
 - Correlation table of all the columns
 - ![](/images/Figure%202021-04-19%20185346.png)
@@ -47,5 +48,4 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 - ![](/images/Figure%202021-04-19%20185547%20(39).png)
 - ![](/images/Figure%202021-04-19%20185547%20(40).png)
 - ![](/images/Figure%202021-04-19%20185547%20(41).png)
-
 
