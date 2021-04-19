@@ -34,7 +34,7 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 - <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(31).png">
 - since the price is a dependent variable, comparson between price and all other attributes which affect on it is visualized as:
 - ![](/images/Figure%202021-04-19%20185547%20(29).png)
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(29).png">
+- ![](https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(29).png)
 - <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(31).png">
 - <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(32).png">
 - <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(33).png">
