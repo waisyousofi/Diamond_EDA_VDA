@@ -32,6 +32,7 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 # Findings from VDA
 - Correlation table of all the columns
 - <a href="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(31).png">test</a>
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(31).png" alt="Girl in a jacket" width="500" height="600">
 - ![](https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(32).png)
 - since the price is a dependent variable, comparson between price and all other attributes which affect on it is visualized as:
 - ![](/images/Figure%202021-04-19%20185547%20(41).png)
