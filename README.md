@@ -31,4 +31,4 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 
 # Findings from VDA
 - since the price is a dependent variable, comparson between price and all other attribute which affect on it is visualized as:
-- ![alt text](image.jpg)
+- ![](/images/Figure%202021-04-19%20185346.png)
