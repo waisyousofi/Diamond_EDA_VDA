@@ -31,21 +31,20 @@ overall a cleaned dataset with no missing values or messy data will be provided 
 
 # Findings from VDA
 - Correlation table of all the columns
-- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(31).png">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185346.png">
 - since the price is a dependent variable, comparson between price and all other attributes which affect on it is visualized as:
 - ![](/images/Figure%202021-04-19%20185547%20(29).png)
 - ![](https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(29).png)
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(31).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(32).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(33).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(34).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(35).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(36).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(37).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(38).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(39).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(40).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(41).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(42).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(43).png">
-- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(44).png">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(30).png">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(31).png">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(32).png">
+- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(33).png?raw=true">
+- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(34).png?raw=true">
+- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(35).png?raw=true">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(36).png">
+- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(40).png?raw=true">
+- <img src="https://github.com/waisyousofi/Diamond_EDA_VDA/blob/main/images/Figure%202021-04-19%20185547%20(41).png?raw=true">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(42).png">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(43).png">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(44).png">
+- <img src="https://raw.githubusercontent.com/waisyousofi/Diamond_EDA_VDA/main/images/Figure%202021-04-19%20185547%20(38).png">
